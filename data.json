@@ -25,7 +25,11 @@
                     "title": "Visit nearby attractions in town",
                     "time": "1400 hours"
                 }
-            ]
+            ],
+            "transportation":{
+                "mode": "on foot",
+                "cost": 15
+            }   
         },
         {
             "location": "The World's Only Corn Palace",
@@ -44,7 +48,11 @@
                     "title": "Shop for local souvenirs",
                     "time": "1500 hours"
                 }
-            ]
+            ],
+            "transportation":{
+                "mode": "car",
+                "cost": 30
+            }   
         }
     ]
 }
